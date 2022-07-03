@@ -1,1 +1,108 @@
 /* Copy and paste your CSS from CodePen into here */
+h1{
+    font-family: 'Pokemon Solid', verdana, sans-serif; font-size: 30px;
+color: #FFD700;
+text-decoration: underline;
+margin: -10px 0px -10px 0px;  
+}
+
+h2{
+font-family: 'Pokemon Solid', verdana, sans-serif;
+font-size: 24px;
+text-decoration: underline;
+color: #FFD700;
+margin: -10px 0px -10px 0px;
+}
+
+h3{
+font-family: 'Pokemon Solid', verdana, sans-serif;
+font-size: 18px;
+color: #FFD700;
+margin: -10px 0px -10px 0px;
+}
+
+p{
+font-family: arial, verdana, sans-serif;
+font-size: 15px;
+color: #c0c0c0;
+}
+
+img {
+width: 100%;
+height: auto;
+max-height: 600px;
+max-width: 600px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-color: #2C39AF;
+border-width: 3px;
+border-style: solid;
+}
+
+figcaption{
+font-family: arial, verdana, sans-serif;
+font-size: 15px;
+color: #c0c0c0;
+text-align: center;
+margin: 10px 0px -10px 0px;
+
+}
+
+label{
+font-family: arial, verdana, sans-serif;
+font-size: 15px;
+color: #c0c0c0;
+font-weight: bold;
+}
+li{
+font-family: arial, verdana, sans-serif;
+font-size: 15px;
+color: #c0c0c0;
+
+} 
+
+a{
+color: #FFD700;
+}
+
+.chikorita
+{
+width: 100%;
+height: auto;
+max-height: 128px;
+max-width: 128px;
+display: block;
+margin-left: 10px;
+margin-right: auto;
+border-color: #AAFF00;
+border-width: 3px;
+border-style: solid;
+
+}
+.totodile
+{
+width: 100%;
+height: auto;
+max-height: 128px;
+max-width: 128px;
+display: block;
+margin-left: 10px;
+margin-right: auto;
+border-color: #0096FF;
+border-width: 3px;
+border-style: solid;
+}
+.cyndaquil
+{
+width: 100%;
+height: auto;
+max-height: 128px;
+max-width: 128px;
+display: block;
+margin-left: 10px;
+margin-right: auto;
+border-color: #EE4B2B;
+border-width: 3px;
+border-style: solid;
+}
