@@ -3,7 +3,8 @@ h1{
     font-family: 'Pokemon Solid', verdana, sans-serif; font-size: 30px;
 color: #FFD700;
 text-decoration: underline;
-margin: -10px 0px -10px 0px;  
+margin: -10px 0px -10px 0px; 
+text-align: center; 
 }
 
 h2{
